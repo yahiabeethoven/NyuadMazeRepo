@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the NYUAD Cat Jail Maze
 
 [Pages editor](https://github.com/yahiabeethoven/NyuadMazeRepo/edit/gh-pages/index.md).
 Visual and user experience documentation
